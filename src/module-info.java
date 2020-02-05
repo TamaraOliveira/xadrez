@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cadmus
+ *
+ */
+module xadrez {
+}
